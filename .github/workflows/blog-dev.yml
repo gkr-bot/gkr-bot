@@ -1,6 +1,8 @@
 name: Latest blog post workflow
 on:
   workflow_dispatch:
+  schedule:
+    - cron:  '*/5 * * * *'
 
 jobs:
   update-readme-with-blog:
