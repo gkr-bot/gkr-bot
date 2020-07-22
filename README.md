@@ -12,3 +12,7 @@ A friendly neighborhood bot
 - [Microsoft Student Partners – Geek is the new rockstar](https://dev.to/gautamkrishnar/microsoft-student-partners--geek-is-the-new-rockstar)
 - [Microsoft Student Partners (Ambassadors) – Geek is the new rockstar](https://www.gautamkrishnar.com/microsoft-student-partners/)
 <!-- BLOG-POST-LIST:END -->
+
+### Latest StackOveflow activity of [@gautamkrishnar](https://github.com/gautamkrishnar)
+<!-- STACKOVERFLOW:START -->
+<!-- STACKOVERFLOW:END -->
