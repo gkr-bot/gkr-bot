@@ -1,4 +1,4 @@
-name: Latest blog post workflow
+name: test workflow
 on:
   workflow_dispatch:
 
