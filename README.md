@@ -21,3 +21,7 @@ A friendly neighborhood bot
 - [Answer by Gautam Krishna R for How to remove files previously added with ng add schematic command](https://stackoverflow.com/questions/57654689/how-to-remove-files-previously-added-with-ng-add-schematic-command/57655411#57655411)
 - [Comment by Gautam Krishna R on How can i use voice in Tizen smart TV app?](https://stackoverflow.com/questions/55349614/how-can-i-use-voice-in-tizen-smart-tv-app)
 <!-- STACKOVERFLOW:END -->
+
+# Test
+<!-- TEST:START -->
+<!-- TEST:END -->
