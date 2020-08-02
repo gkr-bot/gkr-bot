@@ -12,6 +12,9 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@develop
         with:
+          commit_message: "test message"
+          committer_username:  "gkr-bot"
+          committer_email: "gkr@tuta.io"
           max_post_count: "5"
           feed_list: "https://dev.to/feed/gautamkrishnar,https://www.gautamkrishnar.com/feed/"
 
