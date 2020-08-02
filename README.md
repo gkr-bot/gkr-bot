@@ -24,4 +24,6 @@ A friendly neighborhood bot
 
 # Test
 <!-- TEST:START -->
+- [Share Your Work](https://49.232.199.67/2020/08/share-your-work/)
+- [PAT手册](https://49.232.199.67/2020/07/pat%e6%89%8b%e5%86%8c/)
 <!-- TEST:END -->
