@@ -1,0 +1,19 @@
+name: Latest blog post workflow
+on:
+  schedule:
+    # Runs every hour
+    - cron: '0 0 * * 0'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master 
+        env:
+          NODE_TLS_REJECT_UNAUTHORIZED: "0"
+        with:
+          max_post_count: "4"
+          feed_list: "https://49.232.199.67/feed/"
