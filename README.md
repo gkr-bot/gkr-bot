@@ -15,9 +15,9 @@ A friendly neighborhood bot
 
 ### Latest StackOveflow activity of [@gautamkrishnar](https://github.com/gautamkrishnar)
 <!-- STACKOVERFLOW:START -->
-- [Comment by Gautam Krishna R on Can't build create-react-app project with custom PUBLIC_URL](https://stackoverflow.com/questions/42686149/cant-build-create-react-app-project-with-custom-public-url/54092796#54092796)
-- [Comment by Gautam Krishna R on How to display a title from an array of objects?](https://stackoverflow.com/questions/58301152/how-to-display-a-title-from-an-array-of-objects)
-- [Comment by Gautam Krishna R on JavaScript detection of LAN IP address](https://stackoverflow.com/questions/56711611/javascript-detection-of-lan-ip-address)
 - [Answer by Gautam Krishna R for How to remove files previously added with ng add schematic command](https://stackoverflow.com/questions/57654689/how-to-remove-files-previously-added-with-ng-add-schematic-command/57655411#57655411)
-- [Comment by Gautam Krishna R on How can i use voice in Tizen smart TV app?](https://stackoverflow.com/questions/55349614/how-can-i-use-voice-in-tizen-smart-tv-app)
+- [Is it okay to use puppeteer to pre render SPAs?](https://stackoverflow.com/questions/50207220/is-it-okay-to-use-puppeteer-to-pre-render-spas)
+- [Answer by Gautam Krishna R for Send event when time runs out Angular5](https://stackoverflow.com/questions/50190382/send-event-when-time-runs-out-angular5/50190962#50190962)
+- [Answer by Gautam Krishna R for Angular 5 - Main bundle file is too large on the development server](https://stackoverflow.com/questions/49687569/angular-5-main-bundle-file-is-too-large-on-the-development-server/49687624#49687624)
+- [Answer by Gautam Krishna R for How to push code to Github hiding the API keys?](https://stackoverflow.com/questions/44342276/how-to-push-code-to-github-hiding-the-api-keys/44342332#44342332)
 <!-- STACKOVERFLOW:END -->
