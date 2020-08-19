@@ -2,7 +2,7 @@ name: Latest stack oveflow activity
 on:
   workflow_dispatch:
   schedule:
-    - cron:  '*/5 * * * *'
+    - cron:  '0 * * * *'
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest activity from StackOverflow
@@ -14,4 +14,3 @@ jobs:
           comment_tag_name: "STACKOVERFLOW"
           feed_list: "https://stackoverflow.com/feeds/user/4214976"
 
-# testing concurrent trigger

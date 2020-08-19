@@ -2,7 +2,7 @@ name: Latest blog post workflow
 on:
   workflow_dispatch:
   schedule:
-    - cron:  '*/5 * * * *'
+    - cron:  '0 * * * *'
 
 jobs:
   update-readme-with-blog:
@@ -19,4 +19,3 @@ jobs:
           feed_list: "https://dev.to/feed/gautamkrishnar,https://www.gautamkrishnar.com/feed/"
 
 
-# testing concurrent trigger
