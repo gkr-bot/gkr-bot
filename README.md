@@ -6,9 +6,11 @@ A friendly neighborhood bot
 
 ### Latest posts of [@gautamkrishnar](https://github.com/gautamkrishnar) 
 <!-- BLOG-POST-LIST:START -->
-- [Git and Introduction to basic concepts of GitHub.](https://medium.com/@AvinashMahanthi/git-and-introduction-to-basic-concepts-of-github-a7e7afc4705d?source=rss-5ae14ecb5e89------2)
-- [What is Flutter? Here is everything you should know.](https://medium.com/@AvinashMahanthi/what-is-flutter-8febbac5e1b2?source=rss-5ae14ecb5e89------2)
-- [What? Where? and How to get started with AI!](https://medium.com/@AvinashMahanthi/what-where-and-how-to-study-ai-2f3f84065479?source=rss-5ae14ecb5e89------2)
+- [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
+- [God Mode in browsers: document.designMode = "on"](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
+- [Skipping the Chrome "Your connection is not private" warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
+- [Microsoft Student Partners – Geek is the new rockstar](https://dev.to/gautamkrishnar/microsoft-student-partners--geek-is-the-new-rockstar)
+- [Microsoft Student Partners (Ambassadors) – Geek is the new rockstar](https://www.gautamkrishnar.com/microsoft-student-partners/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Latest StackOveflow activity of [@gautamkrishnar](https://github.com/gautamkrishnar)
