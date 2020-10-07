@@ -21,3 +21,7 @@ A friendly neighborhood bot
 - [Answer by Gautam Krishna R for Send event when time runs out Angular5](https://stackoverflow.com/questions/50190382/send-event-when-time-runs-out-angular5/50190962#50190962)
 - [Answer by Gautam Krishna R for Angular 5 - Main bundle file is too large on the development server](https://stackoverflow.com/questions/49687569/angular-5-main-bundle-file-is-too-large-on-the-development-server/49687624#49687624)
 <!-- STACKOVERFLOW:END -->
+
+### Latest activity of [@gautamkrishnar](https://github.com/gautamkrishnar)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
