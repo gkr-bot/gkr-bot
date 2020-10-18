@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@develop
+      - uses: gautamkrishnar/blog-post-workflow@pull
         with:
           comment_tag_name: "STACKOVERFLOW"
           feed_list: "https://stackoverflow.com/feeds/user/4214976"
