@@ -25,10 +25,10 @@ A friendly neighborhood bot
 ### Latest activity of [@gautamkrishnar](https://github.com/gautamkrishnar)
 <!--START_SECTION:waka-->
 ```text
-YAML         2 hrs 4 mins    ████████▒░░░░░░░░░░░░░░░░   33.42 % 
-Other        1 hr 11 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.20 % 
-JavaScript   1 hr 8 mins     ████▓░░░░░░░░░░░░░░░░░░░░   18.57 % 
-JSON         52 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-TypeScript   43 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+YAML         2 hrs 55 mins   ██████████░░░░░░░░░░░░░░░   40.33 % 
+JavaScript   1 hr 27 mins    █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
+Other        1 hr 11 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
+JSON         53 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
+TypeScript   36 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
 ```
 <!--END_SECTION:waka-->
