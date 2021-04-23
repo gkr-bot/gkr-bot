@@ -13,4 +13,5 @@ jobs:
         with:
           comment_tag_name: "STACKOVERFLOW"
           feed_list: "https://stackoverflow.com/feeds/user/4214976"
+          custom_template: "<tr><td>$title</td><td>$url</td></tr>"
 
