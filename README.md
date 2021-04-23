@@ -14,9 +14,11 @@ A friendly neighborhood bot
 <!-- BLOG-POST-LIST:END -->
 
 ### Latest StackOveflow activity of [@gautamkrishnar](https://github.com/gautamkrishnar)
-| Title        | Link           |
-| ------------- |:-------------:|<!-- STACKOVERFLOW:START -->
-<!-- STACKOVERFLOW:END -->
+<table>
+  <th><td>Title</td><td>Link</td></th>
+  <!-- STACKOVERFLOW:START -->
+  <!-- STACKOVERFLOW:END -->
+</table>
 
 ### Latest activity of [@gautamkrishnar](https://github.com/gautamkrishnar)
 <!--START_SECTION:waka-->
