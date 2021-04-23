@@ -15,7 +15,7 @@ A friendly neighborhood bot
 
 ### Latest StackOveflow activity of [@gautamkrishnar](https://github.com/gautamkrishnar)
 <table>
-  <th><td>Title</td><td>Link</td></th>
+  <tr><th>Title</th><th>Link</th></tr>
   <!-- STACKOVERFLOW:START -->
   <!-- STACKOVERFLOW:END -->
 </table>
