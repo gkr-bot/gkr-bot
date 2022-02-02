@@ -20,6 +20,7 @@ jobs:
           max_post_count: "5"
           item_exec: |
             console.log(ITEM_EXEC);
+            post.description = post.description.replace(/<\/?[^>]+(>|$)/g, "").slice(0,100)
           feed_list: "https://dev.to/feed/gautamkrishnar,https://www.gautamkrishnar.com/feed/"
 
 
