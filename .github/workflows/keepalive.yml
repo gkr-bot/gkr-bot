@@ -1,11 +1,11 @@
-name: Latest blog post workflow
+name: Keepalive
 on:
   workflow_dispatch:
   schedule:
     - cron:  '0 * * * *'
 
 jobs:
-  update-readme-with-blog:
+  keepalive:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
