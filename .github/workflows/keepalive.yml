@@ -1,0 +1,13 @@
+name: Latest blog post workflow
+on:
+  workflow_dispatch:
+  schedule:
+    - cron:  '0 * * * *'
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo hi
+      - uses: gautamkrishnar/keepalive-workflow@master 
