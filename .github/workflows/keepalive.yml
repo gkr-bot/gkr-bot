@@ -9,5 +9,6 @@ jobs:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v2
       - run: echo hi
       - uses: gautamkrishnar/keepalive-workflow@master 
